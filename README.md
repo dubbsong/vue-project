@@ -1,13 +1,13 @@
 # vue-project
 <br>
 
-## Project setup
+### Install dependencies
 ```
 yarn install
 ```
 <br>
 
-### Compiles and hot-reloads for development
+### Run server
 ```
 yarn serve
 ```
